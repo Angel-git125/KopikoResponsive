@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+}
+.site-branding{
+    background-color: black;
+    height: 150px;
+    border-bottom: 1px solid;
+    border-color: #b7b7b741;
+
+}
+.site-title{
+    color: #b7b7b7;
+   text-align: center;
+   text-decoration: none;
+    
+}
+.title{
+    font-size: 44px;
+    font-family: "Playfair Display", serif;
+    text-decoration: none;
+   
+}
+.title a{
+    color: #b7b7b7; 
+    text-decoration: none;
+}
+.title a:hover{
+    color: red;
+    text-decoration: none;
+   }
+   .sub-title{
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    
+   }
+   .nav-bar{
+    background-color: black;
+    color: #b7b7b7;
+   }
+   .description{
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #999999;
+   }
+   .image-size{
+    height: auto;
+    max-width: 100%;
+   }
+   .navbar-toggler-icon{
+    filter: invert(1);
+
+   }
+   .footer{
+    text-align: center;
+    align-items: center;
+    height: 70vh;
+   }
+   .social-icons{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+
+   }
+   .social-icons a{
+    display:inline-block;
+    padding-left: 40px;
+   }
+   .social-icons img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: auto;
+   }
+   .footer-text a:hover{
+    color: red;
+    text-decoration: none;
+   }
+   .content-box{
+    padding-top: 100px;
+   }
+   .icon-list{
+    padding-top: 150px;
+   }
+   .footer-title{
+padding-top: 150px;
+   }
+   .footer-details{
+color: #b7b7b7;
+   }
+   .footer-details a{
+    color: white;
+    text-decoration: none;
+   }
+   .footer-details a:hover
+   {
+    text-decoration: underline;
+    color: red;
+   }
